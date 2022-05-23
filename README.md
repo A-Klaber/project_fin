@@ -27,6 +27,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - each memeber contributed to the selection of topic and searching for data
 - all members participated and helped each other in multiple roles.
 - communication is maintained on slack  
+#### technology
 - data cleaning and analysis will be done via Jupyter
 - database will be hosted on aws
 - final graphs will be completed using tableau and google
