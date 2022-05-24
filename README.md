@@ -1,6 +1,6 @@
-# Electric Vehicle Analysis
+# Electric Vehicle Analysis2 
 
-## Overview of Project
+## Overview 
 Our client a large nationwide property developer, is looking to build new electronic charging stations throughout the US.  We are tasked to determine where Electronic charging stations should be added in the US based on EVs that are registered in the area.  
 
 Also considering determining where charging stations will be needed based on gaps in coverage in sparse areas.  There may be some value in ensuring there are charging stations in sparse areas for cross state travel.
@@ -16,7 +16,15 @@ Analysis of Electronic vehicle registration and electronic vehicle sales to dete
 
 *https://afdc.energy.gov/data/10567     (US Plug in Electric Vehicle Sales By Model)
 
+*https://catalog.data.gov/dataset/alternative-fueling-station-locations-422f2   alt_fuel_stations (Jul 29 2021).csv
 
-## Topic Choice
-Coming to an agreement on a topic was not an easy task.  However, once we were able to locate some recent data on electronic vehicles, the ideas started flowing.  Maybe it's the high gas prices, or the fact that many car companies are promising to refocus and produce more electric vehicles.  Ultimately, we found this to be an interesting topic with a wealth of data to explore.
 
+## Questions to Answer
+*What areas will need EV charging stations with the steady increase of Electronic vehicle sales
+
+*What areas may need EV charging stations due to sparsity of coverage needs
+
+
+
+## Communication
+Since having found the value of using Slack thought this term of class, we relied on Slack as our main communication tool.  We also were also all able to collaborate via zoom meetings.
