@@ -1,12 +1,12 @@
 # Electric Vehicle Analysis
 
 ## Overview of Project
-Our client a large nationwide property developer, is looking to build new electronic charging stations throughout the US.  We are tasked to determine where Electronic charging stations should be added in the US based on EVs that are registered in the area.  
-
-Also considering determining where charging stations will be needed based on gaps in coverage in sparse areas.  There may be some value in ensuring there are charging stations in sparse areas for cross state travel.
+We are engaging in research on behalf of the state of Florida to determine how many electic vehicle charging stations will be needed by the year 2025. We will use information about the number of EVs registered in each county for years 2018, 2019 and 2020 and regression analysis to figure out our predictions for 2025 and provide these to the state on a county by county basis. We will then be able to advise if the amount of stations is sufficent, needs to be improved, or if stations provided by local and/or state goverment can be reduced for a cost savings.
 
 ## Plan
-Analysis of Electronic vehicle registration and electronic vehicle sales to determine area that will benefit from more charging station additions.  Determining average miles per charge and determining potential area of need for charging stations.  
+Use pandas to filter data to provide number of stations per county in FL, as well as number of EVs registered in the state in 2018, 2019, 2020
+Machine learning - use regression to determine the growth factor of EV ownership in the state by county
+Tableau dashboard - will provide information to state on areas most in need of stations as well as possible surplus stations to be investigated
 
 
 ## Resources/Data
