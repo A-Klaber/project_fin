@@ -12,11 +12,9 @@ We are engaging in research on behalf of the state of Florida to determine how m
 
 
 ## Resources/Data
-*Alternative Fuels Data Center: Maps and Data - Electric Vehicle Registrations by State (energy.gov)
+* "Insert spreadsheet title for EV charging stations here
+* "Insert spreadsheet title for EV registrations (2018, 2019 and 2020) here
 
-*Alternative Fuels Data Center: Maps and Data - Average Range and Efficiency of U.S. Electric Vehicles (energy.gov)
-
-*https://afdc.energy.gov/data/10567     (US Plug in Electric Vehicle Sales By Model)
 
 
 ## Topic Choice
