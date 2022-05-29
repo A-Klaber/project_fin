@@ -32,6 +32,6 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - database will be hosted on aws
 - final graphs will be completed using tableau and google
 
-#### Tweak to google slides
+#### Preliminary Google slides Presentation
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
