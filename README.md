@@ -12,8 +12,9 @@ We are engaging in research on behalf of the state of Florida to determine how m
 
 
 ## Resources/Data
-* "Insert spreadsheet title for EV charging stations here
-* "Insert spreadsheet title for EV registrations (2018, 2019 and 2020) here
+* alt_fuel_stations.csv
+* fl_ev_reg.csv
+* zip_county.csv
 
 
 
