@@ -39,3 +39,11 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 #### Preliminary Google slides Presentation
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
+
+# Week 2 Update
+
+### Machine Learning Model:
+- Description of preliminary data preprocessing
+- Description of preliminary deature engineering and preliminary feature selection, including their decision making process
+- Description of how data was split into trainig and testing sets
+- Explanation of model choice, including limitations and benefits
