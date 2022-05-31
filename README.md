@@ -44,6 +44,4 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 
 ### Machine Learning Model:
 - Data was loaded into dataframes in Jupyter, checked for null values, irrelevant columns were dropped, and data was filtered down from charging stations nationwide to just Florida
-- Description of preliminary feature engineering and preliminary feature selection, including their decision making process
-- Description of how data was split into trainig and testing sets
 - We have chosen linear regression as our machine learning model of choice because we want to forecast, based upon historical information from 2018-2020, the amount of EVs that will be owned in 2025. 
