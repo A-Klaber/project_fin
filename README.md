@@ -38,7 +38,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - Gooogle Slides Used for Preliminary Presentation
 - Database will be hosted using Postgres
 
-#### Updated Google slides Presentation
+#### Updated Google slides Presentation with new slides
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
 
