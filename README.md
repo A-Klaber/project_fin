@@ -27,9 +27,10 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 ### Week 2
 ![Prelim](QuickDBD_EV.png)  
 - Each member contributed to the selection of topic and searching for data
-- All members participated and helped each other in multiple roles. Current role assignments are as follows
+- All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows
         - Julia: Circle
         - Andrew: Square
+        - Christianna: Triangle
         - 
 - Communication is maintained on slack  
 #### technology
