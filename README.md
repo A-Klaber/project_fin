@@ -26,8 +26,10 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 ## Preliminary data 
 ### Week 2
 ![Prelim](QuickDBD_EV.png)  
-- Each memeber contributed to the selection of topic and searching for data
-- All members participated and helped each other in multiple roles.
+- Each member contributed to the selection of topic and searching for data
+- All members participated and helped each other in multiple roles. Current role assignments are as follows
+        - Julia: Circle
+        - 
 - Communication is maintained on slack  
 #### technology
 - Data cleaning and analysis will be done via Jupyter
