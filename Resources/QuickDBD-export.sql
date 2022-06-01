@@ -3,108 +3,109 @@
 
 
 CREATE TABLE "alt_fuel_2018" (
-    "StationName" object   NOT NULL,
-    "City" object   NOT NULL,
-    "State" object   NOT NULL,
-    "ZIP" float64   NOT NULL,
-    "GroupsWithAccessCode" object   NOT NULL,
-    "Latitude" float64   NOT NULL,
-    "Longitude" float64   NOT NULL,
-    "OpenDate" object   NOT NULL,
-    "county" object   NOT NULL,
+    "StationName" varchar   NOT NULL,
+    "City" varchar    NOT NULL,
+    "State" varchar    NOT NULL,
+    "ZIP" float   NOT NULL,
+    "GroupsWithAccessCode" varchar    NOT NULL,
+    "Latitude" float   NOT NULL,
+    "Longitude" float   NOT NULL,
+    "OpenDate" varchar    NOT NULL,
+    "county" varchar    NOT NULL,
     CONSTRAINT "pk_alt_fuel_2018" PRIMARY KEY (
         "StationName"
      )
 );
 
 CREATE TABLE "alt_fuel_2019" (
-    "StationName" object   NOT NULL,
-    "City" object   NOT NULL,
-    "State" object   NOT NULL,
-    "ZIP" float64   NOT NULL,
-    "GroupsWithAccessCode" object   NOT NULL,
-    "Latitude" float64   NOT NULL,
-    "Longitude" float64   NOT NULL,
-    "OpenDate" object   NOT NULL,
-    "county" object   NOT NULL,
+    "StationName" varchar   NOT NULL,
+    "City" varchar    NOT NULL,
+    "State" varchar    NOT NULL,
+    "ZIP" float   NOT NULL,
+    "GroupsWithAccessCode" varchar    NOT NULL,
+    "Latitude" float   NOT NULL,
+    "Longitude" float   NOT NULL,
+    "OpenDate" varchar    NOT NULL,
+    "county" varchar    NOT NULL,
     CONSTRAINT "pk_alt_fuel_2019" PRIMARY KEY (
         "StationName"
      )
 );
 
+
 CREATE TABLE "alt_fuel_2020" (
-    "StationName" object   NOT NULL,
-    "City" object   NOT NULL,
-    "State" object   NOT NULL,
-    "ZIP" float64   NOT NULL,
-    "GroupsWithAccessCode" object   NOT NULL,
-    "Latitude" float64   NOT NULL,
-    "Longitude" float64   NOT NULL,
-    "OpenDate" object   NOT NULL,
-    "county" object   NOT NULL,
+    "StationName" varchar   NOT NULL,
+    "City" varchar    NOT NULL,
+    "State" varchar    NOT NULL,
+    "ZIP" float   NOT NULL,
+    "GroupsWithAccessCode" varchar    NOT NULL,
+    "Latitude" float   NOT NULL,
+    "Longitude" float   NOT NULL,
+    "OpenDate" varchar    NOT NULL,
+    "county" varchar    NOT NULL,
     CONSTRAINT "pk_alt_fuel_2020" PRIMARY KEY (
         "StationName"
      )
 );
 
 CREATE TABLE "alt_fuel_2021" (
-    "StationName" object   NOT NULL,
-    "City" object   NOT NULL,
-    "State" object   NOT NULL,
-    "ZIP" float64   NOT NULL,
-    "GroupsWithAccessCode" object   NOT NULL,
-    "Latitude" float64   NOT NULL,
-    "Longitude" float64   NOT NULL,
-    "OpenDate" object   NOT NULL,
-    "county" object   NOT NULL,
-    CONSTRAINT "pk_alt_fuel_2021" PRIMARY KEY (
+    "StationName" varchar   NOT NULL,
+    "City" varchar    NOT NULL,
+    "State" varchar    NOT NULL,
+    "ZIP" float   NOT NULL,
+    "GroupsWithAccessCode" varchar    NOT NULL,
+    "Latitude" float   NOT NULL,
+    "Longitude" float   NOT NULL,
+    "OpenDate" varchar    NOT NULL,
+    "county" varchar    NOT NULL,
+    CONSTRAINT "pk_alt_fuel_2018" PRIMARY KEY (
         "StationName"
      )
 );
 
 CREATE TABLE "fl_reg_2018" (
-    "DMVID" int64   NOT NULL,
-    "DMVSnapshotDate" object   NOT NULL,
-    "County" object   NOT NULL,
-    "RegistrationDate" float64   NOT NULL,
-    CONSTRAINT "pk_fl_reg_2018" PRIMARY KEY (
-        "DMVID"
-     )
-);
-
-CREATE TABLE "fl_reg_2019" (
-    "DMVID" int64   NOT NULL,
-    "DMVSnapshotDate" object   NOT NULL,
-    "County" object   NOT NULL,
-    "RegistrationDate" float64   NOT NULL,
+    "DMVID" int   NOT NULL,
+    "DMVSnapshotDate" varchar  NOT NULL,
+    "County" varchar   NOT NULL,
+    "RegistrationDate" float   NOT NULL,
     CONSTRAINT "pk_fl_reg_2019" PRIMARY KEY (
         "DMVID"
      )
 );
 
-CREATE TABLE "fl_reg_2020" (
-    "DMVID" int64   NOT NULL,
-    "DMVSnapshotDate" object   NOT NULL,
-    "County" object   NOT NULL,
-    "RegistrationDate" float64   NOT NULL,
+CREATE TABLE "fl_reg_2019" (
+    "DMVID" int   NOT NULL,
+    "DMVSnapshotDate" varchar  NOT NULL,
+    "County" varchar   NOT NULL,
+    "RegistrationDate" float   NOT NULL,
     CONSTRAINT "pk_fl_reg_2020" PRIMARY KEY (
         "DMVID"
      )
 );
 
-CREATE TABLE "fl_reg_2021" (
-    "DMVID" int64   NOT NULL,
-    "DMVSnapshotDate" object   NOT NULL,
-    "County" object   NOT NULL,
-    "RegistrationDate" float64   NOT NULL,
+CREATE TABLE "fl_reg_2020" (
+    "DMVID" int   NOT NULL,
+    "DMVSnapshotDate" varchar  NOT NULL,
+    "County" varchar   NOT NULL,
+    "RegistrationDate" float   NOT NULL,
     CONSTRAINT "pk_fl_reg_2021" PRIMARY KEY (
         "DMVID"
      )
 );
 
+CREATE TABLE "fl_reg_2021" (
+    "DMVID" int   NOT NULL,
+    "DMVSnapshotDate" varchar  NOT NULL,
+    "County" varchar   NOT NULL,
+    "RegistrationDate" float   NOT NULL,
+    CONSTRAINT "pk_fl_reg_2018" PRIMARY KEY (
+        "DMVID"
+     )
+);
+
 CREATE TABLE "StateRegistration" (
-    "State" object   NOT NULL,
-    "RegistrationCount" int64   NOT NULL
+    "State" varchar  NOT NULL,
+    "RegistrationCount" int   NOT NULL
 );
 
 ALTER TABLE "alt_fuel_2018" ADD CONSTRAINT "fk_alt_fuel_2018_OpenDate_county" FOREIGN KEY("OpenDate", "county")
