@@ -31,7 +31,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
         - Julia: Circle
         - Andrew: Square
         - Christianna: Triangle
-        - 
+        - Bethany: X
 - Communication is maintained on slack  
 #### technology
 - Data cleaning and analysis will be done via Jupyter
