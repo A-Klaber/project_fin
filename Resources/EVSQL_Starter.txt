@@ -1,0 +1,85 @@
+alt_fuel_2018
+-
+StationName object PK
+City object 
+State object
+ZIP float64
+GroupsWithAccessCode object
+Latitude float64
+Longitude float64
+OpenDate object FK >- alt_fuel_2019.OpenDate
+county object  FK >- alt_fuel_2019.county
+
+
+alt_fuel_2019
+-
+StationName object PK
+City object 
+State object
+ZIP float64
+GroupsWithAccessCode object
+Latitude float64
+Longitude float64
+OpenDate object FK >- alt_fuel_2019.OpenDate
+county object FK >- alt_fuel_2020.county
+
+
+alt_fuel_2020
+-
+StationName object PK
+City object
+State object
+ZIP float64
+GroupsWithAccessCode object
+Latitude float64
+Longitude float64
+OpenDate object FK >- alt_fuel_2019.OpenDate
+county object FK >- alt_fuel_2021.county
+
+
+alt_fuel_2021
+-
+StationName object PK
+City object
+State object
+ZIP float64
+GroupsWithAccessCode object
+Latitude float64
+Longitude float64
+OpenDate object FK >- alt_fuel_2019.OpenDate
+county object FK >- alt_fuel_2018.county
+
+fl_reg_2018
+-
+DMVID int64 PK
+DMVSnapshotDate object
+County object FK >- fl_reg_2019.county
+RegistrationDate float64 FK >- fl_reg_2019.RegistrationDate
+
+
+fl_reg_2019
+-
+DMVID int64 PK
+DMVSnapshotDate object
+County object FK >- fl_reg_2020.county
+RegistrationDate float64 FK >- fl_reg_2020.RegistrationDate
+
+fl_reg_2020
+-
+DMVID int64 PK
+DMVSnapshotDate object
+County object FK >- fl_reg_2021.county
+RegistrationDate float64 FK >- fl_reg_2021.RegistrationDate
+
+
+fl_reg_2021
+-
+DMVID int64 PK
+DMVSnapshotDate object
+County object FK >- fl_reg_2018.county
+RegistrationDate float64  FK >- fl_reg_2021.RegistrationDate
+
+StateRegistration
+-
+State object 
+RegistrationCount int64
