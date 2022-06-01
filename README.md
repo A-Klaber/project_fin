@@ -34,9 +34,9 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - Final graphs will be completed using tableau and google
 - sample of left join is in file [alt_fuel_cleanup](alt_fuel_cleanup.ipynb) (block 20),  
          the ev shows the multiple joins to be acomplished, thus be removed from cleanup.
-- 
 
-#### Preliminary Google slides Presentation
+
+#### UpdatedGoogle slides Presentation
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
 
