@@ -29,6 +29,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - Each member contributed to the selection of topic and searching for data
 - All members participated and helped each other in multiple roles. Current role assignments are as follows
         - Julia: Circle
+        - Andrew: Square
         - 
 - Communication is maintained on slack  
 #### technology
