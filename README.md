@@ -15,6 +15,7 @@ We are engaging in research on behalf of the state of Florida to determine how m
 * alt_fuel_stations.csv
 * fl_ev_reg.csv
 * zip_county.csv
+* Atlas EV Hub
 
 
 
@@ -25,8 +26,12 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 ## Preliminary data 
 ### Week 2
 ![Prelim](QuickDBD_EV.png)  
-- Each memeber contributed to the selection of topic and searching for data
-- All members participated and helped each other in multiple roles.
+- Each member contributed to the selection of topic and searching for data
+- All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows
+        - Julia: Circle
+        - Andrew: Square
+        - Christianna: Triangle
+        - Bethany: X
 - Communication is maintained on slack  
 #### technology
 - Data cleaning and analysis will be done via Jupyter
@@ -34,9 +39,10 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - Final graphs will be completed using tableau and google
 - sample of left join is in file [alt_fuel_cleanup](alt_fuel_cleanup.ipynb) (block 20),  
          the ev shows the multiple joins to be acomplished, thus be removed from cleanup.
-- 
+- Gooogle Slides Used for Preliminary Presentation
+- Database will be hosted using Postgres
 
-#### Preliminary Google slides Presentation
+#### Updated Google slides Presentation with new slides
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
 
