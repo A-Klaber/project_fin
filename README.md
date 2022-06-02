@@ -4,7 +4,7 @@
 We are engaging in research on behalf of the state of Florida to determine how many electic vehicle charging stations will be needed by the year 2025. We will use information about the number of EVs registered in each county for years 2018, 2019 and 2020 and regression analysis to figure out our predictions for 2025 and provide these to the state on a county by county basis. We will then be able to advise if the amount of stations is sufficent, needs to be improved, or if stations provided by local and/or state goverment can be reduced for a cost savings.
 
 ## Plan
-*Use pandas to filter data to provide number of stations per county in FL, as well as number of EVs registered in the state in 2018, 2019, 2020
+*Use pandas to filter data to provide number of stations per county in FL, as well as number of EVs registered in the state in 2018, 2019, 2020, & 2021
 
 *Machine learning - use regression to determine the growth factor of EV ownership in the state by county
 
@@ -25,7 +25,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 
 ## Preliminary data 
 ### Week 2
-![Prelim](QuickDBD_EV.png)  
+![](./notes/QuickDBD_projrctFin.png)  
 - Each member contributed to the selection of topic and searching for data
 - All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows
         - Julia: Circle
@@ -35,10 +35,11 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 - Communication is maintained on slack  
 #### technology
 - Data cleaning and analysis will be done via Jupyter
-- Database will be hosted on aws
+- Database will be hosted on postgres 
 - Final graphs will be completed using tableau and google
-- sample of left join is in file [alt_fuel_cleanup](alt_fuel_cleanup.ipynb) (block 20),  
-         the ev shows the multiple joins to be acomplished, thus be removed from cleanup.
+- join ![project_fin](./notes/db-join.png)  
+- exported table (join) into [joined.csv](./clean_output/joined.csv)
+        
 - Gooogle Slides Used for Preliminary Presentation
 - Database will be hosted using Postgres
 
