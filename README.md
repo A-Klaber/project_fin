@@ -27,11 +27,11 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 ### Week 2
 ![](./notes/QuickDBD_projrctFin.png)  
 - Each member contributed to the selection of topic and searching for data
-- All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows
-        - Julia: Circle
-        - Andrew: Square
-        - Christianna: Triangle
-        - Bethany: X
+- All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows:
+  * Julia: Circle
+  * Andrew: Square
+  * Christianna: Triangle
+  * Bethany: X
 - Communication is maintained on slack  
 #### technology
 - Data cleaning and analysis will be done via Jupyter
@@ -52,3 +52,6 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 ### Machine Learning Model:
 - Data was loaded into dataframes in Jupyter, checked for null values, irrelevant columns were dropped, and data was filtered down from charging stations nationwide to just Florida
 - We have chosen linear regression as our machine learning model of choice because we want to forecast, based upon historical information from 2018-2020, the amount of EVs that will be owned in 2025. 
+
+
+# Week 3 Update
