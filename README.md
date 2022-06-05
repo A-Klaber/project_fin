@@ -55,3 +55,5 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 
 
 # Week 3 Update
+
+- Preliminary tableau dashboard of EV charging stations by county https://public.tableau.com/app/profile/bethany.hewett/viz/UCFDataAnalyticsandVisualization-ProjectGroup1/Sheet1?publish=yes
