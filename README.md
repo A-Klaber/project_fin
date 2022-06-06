@@ -24,7 +24,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 
 
 ## Preliminary data 
-### Week 2
+### Week 3
 ![](./notes/QuickDBD_projrctFin.png)  
 - Each member contributed to the selection of topic and searching for data
 - All members participated and helped each other in multiple roles. Although we all assist each other, our project long role assignments are as follows:
