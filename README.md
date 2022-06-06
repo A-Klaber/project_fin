@@ -47,7 +47,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
 
 https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6BfxTS4/edit?usp=sharing
 
-# Week 2 Update
+# Week 3 Update
 
 ### Machine Learning Model:
 - Data was loaded into dataframes in Jupyter, checked for null values, irrelevant columns were dropped, and data was filtered down from charging stations nationwide to just Florida
