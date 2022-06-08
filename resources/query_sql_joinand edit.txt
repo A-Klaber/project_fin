@@ -1,0 +1,24 @@
+UPDATE station_totals_by_year2
+SET county = 'Dade'
+WHERE county = 'Miami-Dade';
+
+UPDATE station_totals_by_year2
+SET county = 'Desoto'
+WHERE county = 'DeSoto';
+
+UPDATE station_totals_by_year2
+SET county = 'St. Lucie'
+WHERE county = 'Saint Lucie';
+
+UPDATE station_totals_by_year2
+SET county = 'St. Johns'
+WHERE county = 'Saint Johns';
+
+
+ALTER TABLE station_totals_by_year2
+  RENAME COLUMN county TO county2;
+  
+create table joined as
+SELECT * FROM fl_reg_df_by_year2 r FULL OUTER JOIN station_totals_by_year2 s
+ON s.county2 = r.county  ;
+
