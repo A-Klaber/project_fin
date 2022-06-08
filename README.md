@@ -1,4 +1,3 @@
-
 # Electric Vehicle Analysis
 
 ## Overview of Project
