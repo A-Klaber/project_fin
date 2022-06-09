@@ -61,3 +61,4 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 
 # Week 4 Update
 - Built out Tableau dashboard to show charging stations by county by year
+- Machine Learning Model determined how many vehicle registrations would exist in the year 2023
