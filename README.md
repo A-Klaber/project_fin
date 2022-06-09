@@ -58,3 +58,6 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 
 - Preliminary tableau dashboard of EV charging stations by county https://public.tableau.com/app/profile/bethany.hewett/viz/UCFDataAnalyticsandVisualization-ProjectGroup1/Sheet1?publish=yes
 - Updated Google Slides with snip of tableau image
+
+# Week 4 Update
+- Built out Tableau dashboard to show charging stations by county by year
