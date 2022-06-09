@@ -63,4 +63,5 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 - Built out Tableau dashboard to show charging stations by county by year
 - Machine Learning Model determined how many vehicle registrations would exist in the year 2023
 - Calculated by county the average vehicle to charging station ratio which is approximately 67:1
-- Findings are that 3,770 charging stations will be needed across the state and as of the end of 2021 there were 2,824, or a defecit of 946 stations across the state
+- Findings are that 3,770 charging stations will be needed across the state and as in 2022 there are 2,824, or a defecit of 946 stations across the state
+- In 2023 we predict that there will be 252,603 EV registrations with the highest concentration in Lafayette county which has an anticipated count of 7,744
