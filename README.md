@@ -64,4 +64,4 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 - Machine Learning Model determined how many vehicle registrations would exist in the year 2023. The machine learning model we went with was ARIMA (autoregressive integrated moving average). Due to small sample size, train and test data were the same (approved per Eric during class 6/8)
 - Calculated by county the average vehicle to charging station ratio which is approximately 67:1
 - Findings are that 3,770 charging stations will be needed across the state and as in 2022 there are 2,824, or a defecit of 946 stations across the state
-- In 2023 we predict that there will be 252,603 EV registrations with the highest concentration in Dade county which has an anticipated count of 36,370.
+- In 2023 we predict that there will be 252,603 EV registrations with the highest concentration in Dade County which has an anticipated count of 36,370.
