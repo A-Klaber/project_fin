@@ -10,7 +10,8 @@ Also considering determining where charging stations will be needed based on gap
 
 ## Plan
 
-Analysis of Electronic vehicle registration and electronic vehicle sales to determine area that will benefit from more charging station additions.  Determining average miles per charge and determining potential area of need for charging stations.   
+Analysis of Electronic vehicle registration and electronic vehicle sales to determine area that will benefit from more charging station additions.  Determining average miles per charge and determining potential area of need for charging stations.     
+
 
 
 ## Resources/Data
