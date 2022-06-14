@@ -34,6 +34,7 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
   * Bethany: X
 - Communication is maintained on Slack  
 
+
 #### technology
 - Data cleaning and analysis will be done via Jupyter
 - Database will be hosted on postgres 
