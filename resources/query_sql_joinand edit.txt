@@ -20,5 +20,5 @@ ALTER TABLE station_totals_by_year2
   
 create table joined as
 SELECT * FROM fl_reg_df_by_year2 r FULL OUTER JOIN station_totals_by_year2 s
-ON s.county2 = r.county  ;
+ON s.county2 = r.county  ; 
 
