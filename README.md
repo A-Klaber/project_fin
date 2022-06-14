@@ -6,7 +6,7 @@ We are engaging in research on behalf of the state of Florida to determine how m
 ## Plan
 *Use pandas to filter data to provide number of stations per county in FL, as well as number of EVs registered in the state in 2018, 2019, 2020, & 2021
 
-*Machine learning - use regression to determine the growth factor of EV ownership in the state by county
+*Machine learning - use regression to determine the growth factor of EV ownership in the state by county 
 
 *Tableau dashboard - will provide information to state on areas most in need of stations as well as possible surplus stations to be investigated
 
