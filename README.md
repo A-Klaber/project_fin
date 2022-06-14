@@ -32,7 +32,8 @@ Coming to an agreement on a topic was not an easy task.  However, once we were a
   * Andrew: Square
   * Christianna: Triangle
   * Bethany: X
-- Communication is maintained on slack  
+- Communication is maintained on Slack  
+
 #### technology
 - Data cleaning and analysis will be done via Jupyter
 - Database will be hosted on postgres 
