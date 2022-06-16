@@ -56,6 +56,7 @@ https://docs.google.com/presentation/d/1Ib3dUdZEBJ4KgSuwq_63bpVVxFNANwChGiVY6Bfx
 
 # Week 4 Update
 - Preliminary tableau dashboard of EV charging stations by county [https://public.tableau.com/app/profile/bethany.hewett/viz/UCFDataAnalyticsandVisualization-ProjectGroup1/Sheet1?publish=yes](https://public.tableau.com/views/UCFDataAnalyticsandVisualization-ProjectGroup1/Sheet6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- and [https://public.tableau.com/app/profile/andrew.klaber/viz/project_fin_/Dashboard1#1](https://public.tableau.com/app/profile/andrew.klaber/viz/project_fin_/Dashboard1#1)
 - Updated Google Slides with snip of tableau image
 
 # Week 4 Update
